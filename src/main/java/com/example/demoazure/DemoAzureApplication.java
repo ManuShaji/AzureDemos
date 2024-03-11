@@ -14,6 +14,6 @@ public class DemoAzureApplication {
     }
 @GetMapping("/message")
     public String message(){
-        return "Hey Hii , I am Using Azure App service";
+        return "Hey Hii , I am Using Azure App service and second commit";
 }
 }
